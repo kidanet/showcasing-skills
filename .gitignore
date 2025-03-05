@@ -1,0 +1,11 @@
+showcasing-skills.txt
+00.trash
+*.txt
+*.log
+*.tmp
+.DS_Store
+*.swp
+?.*
+*.bak
+tmp
+*.zip
